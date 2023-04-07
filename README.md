@@ -2,7 +2,7 @@
 ![office](https://github.com/ErickArgollo/project-Trybe-Smith/blob/main/450E.gif)
 
 
-#### Neste projeto, desenvolvi uma API Typescript para gerenciar uma loja de produtos digitais utilizando a arquitetura de Modelos, Serviços e Controladores(MSC). As operações CRUD básicas em um banco de dados MySQL podem ser executadas usando a API. A autenticação de token JWT foi implementada para garantir a segurança dos endpoints, confirmando as identidades dos usuários e impedindo o acesso não autorizado.
+#### Neste projeto, desenvolvi uma API utilizando Typescript e MySQL para gerenciar uma loja de produtos medievais utilizando a arquitetura de Modelos, Serviços e Controladores(MSC).Implementei a autenticação de token JWT para garantir a segurança dos endpoints, confirmando as identidades dos usuários e impedindo o acesso não autorizado.
 
 ## Objetivos
 * Desenvolver uma API RESTful utilizando Typescript para gerenciamento de uma loja de itens medievais.
